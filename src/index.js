@@ -36,5 +36,4 @@ function div(){
     console.log(ans)
     document.getElementById("answer").value=ans
 }
-
     
